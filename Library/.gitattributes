@@ -1,0 +1,4 @@
+ArtifactDB filter=lfs diff=lfs merge=lfs -text
+libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+GameAssembly.a filter=lfs diff=lfs merge=lfs -text
+Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a filter=lfs diff=lfs merge=lfs -text
