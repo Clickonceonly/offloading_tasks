@@ -24,5 +24,5 @@ Offloading Tasks built with Unity (C#).
 
 **Outputs are stored both locally and to D-Hive**
 
-1. The On/Off switch for the offloading condition is set in `Assets/Script/IntroductionManager.cs` at line 85
-2. Buttons <kbd>skip lottery</kbd> and <kbd>skip card</kbd> can be deactivated in `Assets/Script/IntroductionManager.cs` at line 13
+1. The On/Off switch for the offloading condition is set in `Assets/Scripts/IntroductionManager.cs` at line 85
+2. Buttons <kbd>skip lottery</kbd> and <kbd>skip card</kbd> can be deactivated in `Assets/Scripts/IntroductionManager.cs` at line 13
